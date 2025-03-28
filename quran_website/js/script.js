@@ -1,1 +1,0 @@
-console.log("Quran Surah Explorer loaded!");
