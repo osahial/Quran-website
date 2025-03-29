@@ -37,7 +37,7 @@ main {
     text-align: center;
 }
 
-.hero h1, .downloads h1, .guide h1, .about h1, .donate h1 {
+.hero h1, .downloads h1, .guide h1, .about h1 {
     color: #2c3e50;
     margin-bottom: 1rem;
 }
